@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://d26lpennugtm8s.cloudfront.net/stores/335/332/products/papel-de-parede-mini-granilite-mama-loves-you-min1-7610f81563adc4f6c615631085030909-1024-1024.jpg');
+      font-family: Helvetica; 
+    background-size: autovh 1000px;
+  }
+  .menu {font-family: Verdana;
+          background-image: url('https://i.pinimg.com/originals/4c/25/96/4c25964514a812780999f97da659d501.jpg');
+  color: white;}
+  .site-title {background-image: url('https://i.pinimg.com/originals/4c/25/96/4c25964514a812780999f97da659d501.jpg');
+    text-align: center;
+  color: White;}
+    
+  li {color:white;}
+  a {
+    color:blue;
+      text-decoration: none;
+  }
+  a:hover {text-decoration: underline;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  .menu ul{
+    display: flex;
+      justify-content: space-around;
+  }
+  a { color:white;
+    font-style: italic
+     } 
+  
+  
+
